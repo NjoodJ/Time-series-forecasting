@@ -16,3 +16,7 @@ The dataset should contain two columns: "ds" (timestamp) and "y" (time series va
 
 ## Conclusion
 In conclusion, the Time Series Forecasting using Prophet project provides a flexible solution for generating forecasts at different time intervals, including weekly, monthly, six-monthly, and yearly intervals. By utilizing the Prophet library, this project allows users to easily generate predictions at various granularities to suit their specific forecasting needs.
+
+## Reference 
+- https://facebook.github.io/prophet/
+- https://medium.com/illumination/understanding-fb-prophet-a-time-series-forecasting-algorithm-c998bc52ca10
