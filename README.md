@@ -1,4 +1,8 @@
 # Time-series-forecasting
+<p align="center">
+<img src=https://github.com/NjoodJ/Time-series-forecasting/assets/93571826/73cfd957-f652-4afd-b196-35b263e1a4f4>
+</p>
+
 Utilized Facebook's Prophet library for time series forecasting. Developed accurate predictions by leveraging Prophet's advanced modeling techniques. The project showcased proficiency in forecasting future values based on historical time series data.
 
 ## Data
@@ -6,9 +10,8 @@ The dataset should contain two columns: "ds" (timestamp) and "y" (time series va
 
 
 ## Model Output
-
 <p align="center">
-  <img width="900" height="600" src=https://github.com/NjoodJ/Time-series-forecasting/assets/93571826/763df3ae-06c0-40de-a0bb-b8e073b2c6ae>
+<img src=https://github.com/NjoodJ/Time-series-forecasting/assets/93571826/72809aa8-6681-4369-a9ec-b2112c8a8a11>
 </p>
 
 ## Conclusion
