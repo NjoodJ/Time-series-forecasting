@@ -10,6 +10,7 @@ The dataset should contain two columns: "ds" (timestamp) and "y" (time series va
 
 
 ## Model Output
+Below are generated forecasts at different time intervals, including weekly, monthly, six-monthly, and yearly intervals:
 <p align="center">
 <img src=https://github.com/NjoodJ/Time-series-forecasting/assets/93571826/72809aa8-6681-4369-a9ec-b2112c8a8a11>
 </p>
